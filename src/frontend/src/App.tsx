@@ -47,16 +47,17 @@ const PRODUCTS = [
     shortTitle: "Best Editing VFX Pack (2570+ Assets) for creators",
     title: "2570+ PNG Asset Pack (TRENDIX)",
     description:
-      "Get 2570+ high-quality PNG assets for just ₹49! This all-in-one pack drops 675 fonts, 100 abstracts, 102 backgrounds, 100 brushes, 193 emojis, 7 explosions, 94 Fortnite assets, 220 FX, 110 glow effects, 200 insane thumbnail assets, 426+ editing character PNGs, 258 renders & 85 video game characters – everything you need to design fire thumbnails & graphics!",
-    price: 49,
-    mrp: 699,
-    discount: 93,
+      "Get 2570+ high-quality PNG assets for just ₹19! This all-in-one pack drops 675 fonts, 100 abstracts, 102 backgrounds, 100 brushes, 193 emojis, 7 explosions, 94 Fortnite assets, 220 FX, 110 glow effects, 200 insane thumbnail assets, 426+ editing character PNGs, 258 renders & 85 video game characters – everything you need to design fire thumbnails & graphics!",
+    price: 19,
+    mrp: 999,
+    discount: 98,
     bought: "200+",
     thumbnail:
       "https://trendivault.my.canva.site/trendivault2/_assets/media/64e8e69108a8eb400e55b2df74507897.png",
     detailImage:
       "https://trendivault.my.canva.site/trendivault2/_assets/media/64e8e69108a8eb400e55b2df74507897.png",
-    cashfreeUrl: "https://payments.cashfree.com/forms/kcaplianbmihT",
+    cashfreeUrl:
+      "https://topmate.io/trendivault/1987348/pay?utm_source=public_profile&utm_campaign=trendivault",
   },
   {
     id: 4,
@@ -71,7 +72,7 @@ const PRODUCTS = [
     thumbnail:
       "https://trendivault.my.canva.site/trendivault2/_assets/media/319a77a3db715e7a0f83ea2a241b8d3e.png",
     detailImage:
-      "https://trendivault.my.canva.site/trendivault2/_assets/media/117a43485f21537903360f3e3703d8e8.png",
+      "/assets/uploads/20251203_131347-019d33da-3813-734f-b5d6-87865a06d61f-2.png",
     cashfreeUrl: "https://payments.cashfree.com/forms?code=kcapb50g",
   },
   {
@@ -87,7 +88,7 @@ const PRODUCTS = [
     thumbnail:
       "https://trendivault.my.canva.site/trendivault2/_assets/media/40e14d05ebf790f441889744f9d7fe0c.png",
     detailImage:
-      "https://trendivault.my.canva.site/trendivault2/_assets/media/64e8e69108a8eb400e55b2df74507897.png",
+      "/assets/uploads/20251206_092401-019d33d9-ea99-70d8-8b10-247b069f22c0-1.png",
     cashfreeUrl: "https://payments.cashfree.com/forms?code=B675G",
   },
   {
